@@ -12,7 +12,7 @@ This project is a simple implementation template for Tab Navigation in React Nat
 ## 🔖 How to run
 
 ~~~
-git clone https://github.com/adoniasvitorio/react-native-stack-navigation.git
+git clone https://github.com/adoniasvitorio/react-native-tab-navigation.git
 cd react-native-stack-navigation 
 yarn install | npm install 
 yarn start | expo start 
